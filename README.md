@@ -8,7 +8,7 @@ This project was build with [RabbitMQ](https://www.rabbitmq.com/) message broker
 
 ## Installation
 
-*Note: The following commands require admin privileges to execute.*
+*Note: The following commands might require admin privileges to execute.*
 
 Fetch the docker image of RabbitMQ:
 
